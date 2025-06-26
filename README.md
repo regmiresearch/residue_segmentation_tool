@@ -1,19 +1,19 @@
 # 🌾 Residue Segmentation Tool (with Segment Anything Model support)
 
 This tool allows users to interactively segment crop residue in images using traditional (Otsu, Canny, Manual) and deep learning-based (SAM) approaches. The tool works offline via a standalone `.exe` application and does **not require Python**.
+This tool will be helpful for annotating crop residue images using traditional methods (Otsu, Canny) and deep learning (Segment Anything Model - SAM), and manual edits as well. Built for easy data labeling, visualization, and dataset creation for machine learning applications in agricultural residue cover analysis.
 
 ![App Screenshot](app_screenshot.png)
 
 ---
 
-## 🔧 How to Use
+**Download the full .exe bundle**  
+🔗 [File Link Here](https://zenodo.org/records/15747774)
 
-### 1. Download the App
-- Click on `residue_segment_tool.exe` in the repository.
-- Download the file to your computer.
-- Run it by double-clicking — no installation or Python required.
+📁 Extract the ZIP to a **short path**, e.g., `C:\ResidueTool\`  
+⚠️ Use [7-Zip](https://www.7-zip.org/) if the default extractor fails.
 
-> **Note:** Windows might warn you about unknown publishers. Click "More Info" → "Run Anyway".
+Double-click `ResidueSegmentationTool.exe` to launch.
 
 ---
 
