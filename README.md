@@ -8,7 +8,7 @@ This tool will be helpful for annotating crop residue images using traditional m
 ---
 
 **Download the full .exe bundle**  
-🔗 [File Link Here]((https://zenodo.org/records/15748768))
+🔗 [File Link Here](https://zenodo.org/records/15748768)
 
 📁 Extract the ZIP to a **short path**, e.g., `C:\ResidueTool\`  
 ⚠️ Use [7-Zip](https://www.7-zip.org/) if the default extractor fails.
