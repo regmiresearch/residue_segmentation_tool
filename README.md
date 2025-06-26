@@ -33,7 +33,7 @@ Double-click `ResidueSegmentationTool.exe` to launch.
 
 ### 3. Quick Demo (Video)
 Watch this video to see how the tool works:  
-🎥 [`demo_video.mp4`](https://zenodo.org/records/15748794)
+🎥 [Video Link Here:](https://zenodo.org/records/15748794)
 
 ---
 
