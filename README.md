@@ -56,7 +56,7 @@ This tool includes a bundled version of Meta's SAM model (ViT-B). No additional 
 ---
 
 ## 🔒 Repository Access
-This repo is currently private. Contact the maintainer for access or permissions.
+This repo is currently public. Contact the maintainer for any confusion on downlaod or usuage of the tool.
 
 ---
 
